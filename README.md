@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Systems
+
+![](https://img.shields.io/badge/Main%20system-Windows%2010-informational?style=for-the-badge&logo=windows)
+![](https://img.shields.io/badge/Main%20system-Ubuntu%2010-informational?style=for-the-badge&logo=ubuntu)
