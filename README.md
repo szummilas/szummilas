@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szummilas&theme=radical&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szummilas&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szummilas&layout=default)]
