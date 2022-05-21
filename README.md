@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 ### ✨ My GitHub Stats ✨
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szummilas&layout=default&theme=radical)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=szummilas&theme=radical&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szummilas&layout=default&theme=radical)
+
