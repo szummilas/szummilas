@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ### ✨ My GitHub Stats ✨
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szummilas&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szummilas&theme=radical&show_icons=true)
