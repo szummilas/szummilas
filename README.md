@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Main%20system-Windows%2010-informational?style=for-the-badge&logo=windows)
 
-![](https://img.shields.io/badge/Supporting%20system-Ubuntu%2010-informational?style=for-the-badge&logo=ubuntu)
+![](https://img.shields.io/badge/Supporting%20system-Ubuntu%20-informational?style=for-the-badge&logo=ubuntu)
