@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Michal and I'm currently working as a backend developer. Wroclaw, Poland</p>
+<p align="left">My name is Michal and I'm currently working as a backend developer. 
+  Based in Wroclaw, Poland.</p>
 
 ###
 
